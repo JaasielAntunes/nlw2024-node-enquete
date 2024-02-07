@@ -83,6 +83,6 @@ export async function voteOnPoll(app: FastifyInstance) {
       votes: Number(votes),
     });
 
-    return res.status(201).send();
+    return res.status(201).send({ message: "Votação realizada com sucesso!" });
   });
 }
