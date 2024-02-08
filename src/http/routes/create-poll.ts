@@ -26,6 +26,8 @@ export async function createPoll(app: FastifyInstance) {
       },
     });
 
-    return res.status(201).send({ message: "Enquete criada com sucesso!", pollId: poll.id });
+    return res
+      .status(201)
+      .send({ message: "Enquete criada com sucesso!", pollId: poll.id });
   });
 }
