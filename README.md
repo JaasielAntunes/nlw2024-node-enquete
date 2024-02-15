@@ -14,6 +14,22 @@ atualiza os votos em tempo real.
 
 ---
 
+## 📷 Screenshots
+
+<div>
+    <img width="700" height="300" src="">
+    <img width="700" height="300" src="">
+</div>
+
+<br>
+
+<div>
+    <img width="700" height="300" src="">
+    <img width="700" height="300" src="">
+</div>
+
+---
+
 ## Requisitos
 
 - Node.js versão 20 ou superior;
