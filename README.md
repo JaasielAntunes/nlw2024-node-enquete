@@ -17,7 +17,7 @@ atualiza os votos em tempo real.
 ## Schema da API
 
 <div>
-    <img width="800" height="500" src="assets/schema.png" />
+    <img width="700" height="400" src="assets/schema.png" />
 </div>
 
 ---
