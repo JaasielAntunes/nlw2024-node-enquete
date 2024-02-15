@@ -14,18 +14,37 @@ atualiza os votos em tempo real.
 
 ---
 
-## 📷 Screenshots
+## Schema da API
 
 <div>
-    <img width="700" height="300" src="">
-    <img width="700" height="300" src="">
+    <img width="800" height="500" src="assets/schema.png" />
+</div>
+
+---
+
+## 📷 Screenshots
+
+### Create poll
+<div>
+    <img width="800" height="500" src="assets/img1.png" />
 </div>
 
 <br>
 
+### Get poll
 <div>
-    <img width="700" height="300" src="">
-    <img width="700" height="300" src="">
+    <img width="800" height="500" src="assets/img2.png" />
+</div>
+
+### Vote on poll
+<div>
+    <img width="800" height="500" src="assets/img3.png" /> <br>
+    <img width="800" height="500" src="assets/img4.png" />
+</div>
+
+### Websocket
+<div>
+    <img width="900" height="600" src="assets/img5.png" />
 </div>
 
 ---
