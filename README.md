@@ -56,6 +56,9 @@ $ npm install
 ```
 $ docker compose up -d
 ```
+```
+$ npm run migrate:run
+```
 
 5. Inicie o servidor:
 
