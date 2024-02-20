@@ -107,7 +107,7 @@ $ npm run dev
 
 Criar nova enquete.
 
-#### Corpo de resposta
+#### Corpo da requisição
 
 ```json
 {
