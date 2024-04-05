@@ -1,5 +1,5 @@
 <h1 align="center">
-  Aplicação Backend desenvolvida durante a Trilha NodeJS no evento NLW Expert da Rocketseat em 2024.
+  Aplicação Backend desenvolvida durante a Trilha NodeJS no evento NLW Expert da <a href="https://app.rocketseat.com.br/home">Rocketseat</a>.
 </h1>
 
 <p align="center">
