@@ -58,7 +58,7 @@ atualiza os votos em tempo real.
 
 ---
 
-## 💻 Tecnologias utilizadas
+## 💻 Tecnologias
 
 - Prisma
 - Redis
