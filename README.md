@@ -65,6 +65,7 @@ atualiza os votos em tempo real.
 - Fastify
 - Zod
 - Docker
+- JavaScript
 - Typescript
 
 ---
